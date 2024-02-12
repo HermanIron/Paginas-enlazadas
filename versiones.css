@@ -1,0 +1,9 @@
+img{
+  /*aqui pongo lko que quiera asiganar a las imagenes con este nombre  grupo*/
+    width: 300px; 
+    /* 50% */
+}
+     /* se puede poner varios tipos de letras porque segun el buscador algunos no las tiene y busca una que tu quieras segun el orden, las que no tiene comillas es por...*/
+P¨{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
