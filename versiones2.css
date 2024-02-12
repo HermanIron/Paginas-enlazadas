@@ -1,0 +1,78 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-size: 100px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    background-color: brown;
+}
+
+
+h2{
+    color:rgb(192, 55, 55);
+    background-color: rgb(5, 14, 5);
+    font-size: 40px;
+    border-radius: 10px;
+
+}
+
+h3{
+    text-align: center;
+
+}
+ 
+  
+P{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    
+    text-align: justify;
+}
+
+
+img{
+  
+    width: 220px; 
+    caret-shape: bar;
+}
+
+
+a{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: smaller;
+  text-decoration: none;
+  color: red;
+  background-color: rgb(42, 151, 165);
+  border-radius: 10px;
+  /* para separar espacios y que los menus salgan mas anchos  interior*/
+  padding: 5px;
+   /* para separar espacios y que los menus salgan mas anchos  exterior*/
+  margin-right: 10px;
+  margin-bottom: 15px;
+  margin: 30px;
+}
+
+div{
+    background-color: aquamarine;
+    margin-bottom: 20px;
+    
+}
+
+#bisbal-general{
+    background-color: lightblue;
+    padding-left: 5px;
+    padding-right: 15px;
+    
+}
+
+#bisbal-dentro{
+    display: flex;
+    padding: 5px;
+
+
+}
+
+#textos{
+    background-color: blueviolet;
+    padding: 5 15 5 15;
+  
+}
